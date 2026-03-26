@@ -1,5 +1,12 @@
 # @gradio/datetime
 
+## 0.4.6
+
+### Dependency updates
+
+- @gradio/statustracker@0.13.1
+- @gradio/atoms@0.23.0
+
 ## 0.4.5
 
 ### Dependency updates

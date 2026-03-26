@@ -1,5 +1,12 @@
 # @gradio/dropdown
 
+## 0.11.7
+
+### Dependency updates
+
+- @gradio/statustracker@0.13.1
+- @gradio/atoms@0.23.0
+
 ## 0.11.6
 
 ### Fixes

@@ -1,5 +1,17 @@
 # gradio
 
+## 6.11.0
+
+### Features
+
+- [#13122](https://github.com/gradio-app/gradio/pull/13122) [`64828b0`](https://github.com/gradio-app/gradio/commit/64828b08d5be4fdde8a73932b3f288c073ec49bd) - Add Image Unit Tests.  Thanks @freddyaboulton!
+
+### Fixes
+
+- [#13048](https://github.com/gradio-app/gradio/pull/13048) [`a5d4096`](https://github.com/gradio-app/gradio/commit/a5d40965bba21a832da522127048926b71c1a6dd) - Fix Tab Interactive Bug.  Thanks @freddyaboulton!
+- [#12981](https://github.com/gradio-app/gradio/pull/12981) [`8bc7513`](https://github.com/gradio-app/gradio/commit/8bc75137b24ba8a8571b49b9b006741819c0518b) - Fix ImageEditor brush preview dead area on vertical images.  Thanks @MaxwellCalkin!
+- [#13134](https://github.com/gradio-app/gradio/pull/13134) [`75f8dce`](https://github.com/gradio-app/gradio/commit/75f8dceb679b505c8887f0a3c3b9fee98a931db9) - Fix sync generator cancel ValueError.  Thanks @hysts!
+
 ## 6.10.0
 
 ### Features

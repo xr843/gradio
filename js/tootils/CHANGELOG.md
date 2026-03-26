@@ -2,6 +2,12 @@
 
 ## 0.11.0
 
+### Dependency updates
+
+- @gradio/statustracker@0.13.1
+
+## 0.11.0
+
 ### Features
 
 - [#12998](https://github.com/gradio-app/gradio/pull/12998) [`d5e1b8f`](https://github.com/gradio-app/gradio/commit/d5e1b8f6cb7473b70fc8c082589996d5e0402810) - use a real browser environment for unit tests.  Thanks @pngwn!
